@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add your Frontend Mentor solution link here](https://www.frontendmentor.io)
-- Live Site URL: [Add your live site URL here (e.g. GitHub Pages / Vercel)](https://your-github-username.github.io/repository-name/)
+- Solution URL: [https://github.com/Ali-Tobar/qr-code-component](https://github.com/Ali-Tobar/qr-code-component)
+- Live Site URL: [https://ali-tobar.github.io/qr-code-component/](https://ali-tobar.github.io/qr-code-component/)
 
 ## My process
 
@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties (Variables)
 - CSS Box Model & Reset
-- Mobile-first approach
+- Mobile-first design
 
 ### What I learned
 
